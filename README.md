@@ -33,10 +33,38 @@ Here are the **key features** of Cogenda Visual TCAD:
 **Internship overview:**
 
 **1 PN Junction:**
-//Details are on Project reference manual 
+//Details are on Project reference manual. 
+--> Designing on basis of the size requirnments using VisualTCAD gui.
+--> Defining geography of the device.
+--> Applying Materials on the structure.
+--> Defining Doping area and profile.
+--> Abstracting Mesh File.
+--> Simulating The Device using diffrent biasing voltages and find the IV characteristics.
+--> Plotting the data of simulation.
+--> Giving device terminals and diagram to make a circuit of Ractifier.
+--> Ractifier circuit evaluation and simulation.
 
 **2 NMOS:** 
 //Details are on Project reference manual
+--> Designing on basis of the size requirnments using VisualTCAD gui.
+--> Defining geography of the device.
+--> Applying Materials on the structure.
+--> Defining Doping area and profile.
+--> Abstracting Mesh File.
+--> Simulating The Device using diffrent biasing voltages and find the Drain characteristics and Transfer characteristics.
+--> Plotting the data of simulation.
+--> Giving device terminals and diagram to make a circuit of an inverter.
+--> Inverter circuit evaluation and simulation.
+
 
 **3 PMOS DESIGN USING NMOS**
 //Details are on Project reference manual
+--> Designing on basis of the size requirnments using NMOS Design in VisualTCAD gui.
+--> Defining geography of the device.
+--> Applying Materials on the structure.
+--> Defining Doping area and profile.
+--> Abstracting Mesh File.
+--> Simulating The Device using diffrent biasing voltages and find the Drain characteristics and Transfer characteristics.
+--> Plotting the data of simulation.
+--> Giving device terminals and diagram to make a circuit of an inverter.
+--> Inverter circuit evaluation and simulation.
