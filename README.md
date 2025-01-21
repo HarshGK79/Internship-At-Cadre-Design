@@ -20,15 +20,15 @@ This repository showcases the work I completed during 15 days of my online inter
 
 Here are the **key features** of Cogenda Visual TCAD:
 
-2D/3D Device Simulation – Models electrical characteristics.
-Process Simulation – Simulates doping, etching, and oxidation.
-User-Friendly GUI – Easy design and simulation setup.
-Advanced Physics Models – Includes quantum effects, carrier transport, and thermal modeling.
-Doping & Material Customization – Custom doping profiles and semiconductor materials.
-Results Visualization – Graphical representation and export of simulation data.
-Support for Emerging Devices – Works with FinFETs, FDSOI, and photonics.
-High Accuracy – Adaptive meshing and robust solvers for precise results.
-Versatile Applications – Suitable for research and industrial development.
+-2D/3D Device Simulation – Models electrical characteristics.
+-Process Simulation – Simulates doping, etching, and oxidation.
+-User-Friendly GUI – Easy design and simulation setup.
+-Advanced Physics Models – Includes quantum effects, carrier transport, and thermal modeling.
+-Doping & Material Customization – Custom doping profiles and semiconductor materials.
+-Results Visualization – Graphical representation and export of simulation data.
+-Support for Emerging Devices – Works with FinFETs, FDSOI, and photonics.
+-High Accuracy – Adaptive meshing and robust solvers for precise results.
+-Versatile Applications – Suitable for research and industrial development.
 
 **Internship overview:**
 
