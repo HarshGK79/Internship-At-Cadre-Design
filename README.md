@@ -33,10 +33,10 @@ Versatile Applications – Suitable for research and industrial development.
 **Internship overview:**
 
 **1 PN Junction:**
-//Details are on reference manual 
+//Details are on Project reference manual 
 
 **2 NMOS:** 
-//Details are on reference manual
+//Details are on Project reference manual
 
 **3 PMOS DESIGN USING NMOS**
-//Details are on reference manual
+//Details are on Project reference manual
