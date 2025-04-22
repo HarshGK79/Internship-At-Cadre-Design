@@ -32,7 +32,7 @@ Here are the **key features** of Cogenda Visual TCAD:
 
 **Internship overview:**
 
-**1 PN Junction:**
+**1 PN Junction Diode:**
 //Details are on Project reference manual. 
 --> Designing on basis of the size requirnments using VisualTCAD gui.
 --> Defining geography of the device.
